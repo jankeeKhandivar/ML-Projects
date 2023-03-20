@@ -44,7 +44,7 @@ plt.ylabel("Percentage obtained")
 plt.show()
 
 
-# #### From the graph above, we can clearly see that there is a positive linear relation between the number of hours studied and percentage of score. 
+# #### There is a positive linear relation between the number of hours studied and percentage of score. 
 
 # ### Step:4 Preparing the data
 
